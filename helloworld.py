@@ -1,3 +1,5 @@
 #!/usr/local/bin/python
 
-print 'Hello World!'
+import printString
+
+printString.printString("Hello World!")
